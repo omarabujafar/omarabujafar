@@ -4,7 +4,7 @@
 <br/>
   
 <p align="center">
-  Interstellar dreamer, coding through the cosmos. 🌌 #FutureCoder #SciFiEnthusiast
+  Full-Stack Developer - Software Engineer
 </p>
 
 <br/>
