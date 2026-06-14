@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <strong>FULL-STACK SOFTWARE SYSTEMS • BACKEND SERVICES • OPTIMIZATION-DRIVEN APPLICATIONS</strong>
+  <img src="assets/readme/stats/impact-v1.svg" alt="$10.2M annual savings, 99.9% computation reduction, 30% downtime reduction, full-stack product backend systems" width="100%">
 </p>

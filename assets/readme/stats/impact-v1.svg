@@ -1,0 +1,18 @@
+<svg width="920" height="86" viewBox="0 0 920 86" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="918" height="84" rx="24" fill="#0D1117" stroke="#58A6FF" stroke-opacity="0.46"/>
+  <path d="M230 18V68" stroke="#58A6FF" stroke-opacity="0.24"/>
+  <path d="M460 18V68" stroke="#58A6FF" stroke-opacity="0.24"/>
+  <path d="M690 18V68" stroke="#58A6FF" stroke-opacity="0.24"/>
+
+  <text x="115" y="39" text-anchor="middle" fill="#E7E7E7" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="1">$10.2M</text>
+  <text x="115" y="59" text-anchor="middle" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="2.2">ANNUAL SAVINGS</text>
+
+  <text x="345" y="39" text-anchor="middle" fill="#E7E7E7" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="1">99.9%</text>
+  <text x="345" y="59" text-anchor="middle" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="2.2">COMPUTATION REDUCTION</text>
+
+  <text x="575" y="39" text-anchor="middle" fill="#E7E7E7" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="1">30%</text>
+  <text x="575" y="59" text-anchor="middle" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="2.2">DOWNTIME REDUCTION</text>
+
+  <text x="805" y="39" text-anchor="middle" fill="#E7E7E7" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="1">FULL-STACK</text>
+  <text x="805" y="59" text-anchor="middle" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="2.2">PRODUCT / BACKEND / SYSTEMS</text>
+</svg>
