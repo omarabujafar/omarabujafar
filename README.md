@@ -20,21 +20,5 @@
 </p>
 
 <p align="center">
-  <sub>
-    <a href="https://omarabujafar.com">WEBSITE</a>
-    &nbsp;•&nbsp;
-    <a href="https://omarabujafar.com/projects">PROJECTS</a>
-    &nbsp;•&nbsp;
-    <a href="https://omarabujafar.com/resume">RESUME</a>
-    &nbsp;•&nbsp;
-    <a href="https://omarabujafar.com/blog">BLOG</a>
-    &nbsp;•&nbsp;
-    <a href="https://www.linkedin.com/in/omar-abu-jafar">LINKEDIN</a>
-    &nbsp;•&nbsp;
-    <a href="mailto:omarabujafar@proton.me">EMAIL</a>
-  </sub>
-</p>
-
-<p align="center">
   <strong>FULL-STACK SOFTWARE SYSTEMS • BACKEND SERVICES • OPTIMIZATION-DRIVEN APPLICATIONS</strong>
 </p>
