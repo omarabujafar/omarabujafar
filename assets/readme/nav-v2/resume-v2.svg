@@ -1,0 +1,7 @@
+<svg width="132" height="38" viewBox="0 0 132 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="130" height="36" rx="18" fill="#0D1117" stroke="#58A6FF" stroke-opacity="0.72"/>
+  <g transform="translate(15 11)" fill="#58A6FF">
+    <path d="M12 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2m-1 7a3 3 0 1 1-6 0 3 3 0 0 1 6 0m-3 4c2.623 0 4.146.826 5 1.755V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-1.245C3.854 11.825 5.377 11 8 11"/>
+  </g>
+  <text x="43" y="24" fill="#E7E7E7" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">RESUME</text>
+</svg>
