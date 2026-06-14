@@ -6,17 +6,17 @@
 </p>
 
 <p align="center">
-  <a href="https://omarabujafar.com">Website</a>
-  &nbsp;/&nbsp;
-  <a href="https://omarabujafar.com/projects">Projects</a>
-  &nbsp;/&nbsp;
-  <a href="https://omarabujafar.com/resume">Resume</a>
-  &nbsp;/&nbsp;
-  <a href="https://omarabujafar.com/blog">Blog</a>
-  &nbsp;/&nbsp;
-  <a href="https://www.linkedin.com/in/omar-abu-jafar">LinkedIn</a>
-  &nbsp;/&nbsp;
-  <a href="mailto:omarabujafar@proton.me">Email</a>
+  <a href="https://omarabujafar.com" title="Website"><img src="assets/readme/icons/website.svg" alt="Website" width="28"></a>
+  &nbsp;•&nbsp;
+  <a href="https://omarabujafar.com/projects" title="Projects"><img src="assets/readme/icons/projects.svg" alt="Projects" width="28"></a>
+  &nbsp;•&nbsp;
+  <a href="https://omarabujafar.com/resume" title="Resume"><img src="assets/readme/icons/resume.svg" alt="Resume" width="28"></a>
+  &nbsp;•&nbsp;
+  <a href="https://omarabujafar.com/blog" title="Blog"><img src="assets/readme/icons/blog.svg" alt="Blog" width="28"></a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/omar-abu-jafar" title="LinkedIn"><img src="assets/readme/icons/linkedin.svg" alt="LinkedIn" width="28"></a>
+  &nbsp;•&nbsp;
+  <a href="mailto:omarabujafar@proton.me" title="Email"><img src="assets/readme/icons/email.svg" alt="Email" width="28"></a>
 </p>
 
 <p align="center">
@@ -25,14 +25,15 @@
 
 I build software with the same standard I want from tools I use myself: clear interfaces, reliable systems, strict data handling, and enough polish that the experience feels intentional. My work sits mostly around full-stack products, backend logic, developer tools, and optimization workflows where correctness matters.
 
-<table>
-  <tr>
-    <td align="center"><strong>$10.2M</strong><br><sub>annual savings identified</sub></td>
-    <td align="center"><strong>99.9%</strong><br><sub>computation time reduction</sub></td>
-    <td align="center"><strong>30%</strong><br><sub>device downtime reduction</sub></td>
-    <td align="center"><strong>Full-stack</strong><br><sub>product, backend, and systems work</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <strong>$10.2M</strong> <sub>ANNUAL SAVINGS IDENTIFIED</sub>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>99.9%</strong> <sub>COMPUTATION TIME REDUCTION</sub>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>30%</strong> <sub>DEVICE DOWNTIME REDUCTION</sub>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>FULL-STACK</strong> <sub>PRODUCT / BACKEND / SYSTEMS</sub>
+</p>
 
 ## Selected Work
 
@@ -44,7 +45,7 @@ I build software with the same standard I want from tools I use myself: clear in
       </a>
       <h3>BidSense</h3>
       <p>Enterprise bid evaluation platform for Mubadala Energy that uses MILP optimization to produce guaranteed lowest-cost award allocations and automated Excel reporting.</p>
-      <p><code>Python</code> <code>PuLP</code> <code>CBC Solver</code> <code>Pandas</code> <code>OpenPyXL</code> <code>TypeScript</code></p>
+      <p><code>Python</code> <code>MILP</code> <code>PuLP</code> <code>CBC Solver</code> <code>Pandas</code> <code>OpenPyXL</code></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://omarabujafar.com/projects/postsight">
@@ -52,7 +53,7 @@ I build software with the same standard I want from tools I use myself: clear in
       </a>
       <h3>PostSight</h3>
       <p>Developer tool that converts PostgreSQL databases and SQL DDL files into clear ERD diagrams so schemas stay understandable and shareable.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Node.js</code> <code>Drizzle ORM</code> <code>React Flow</code></p>
+      <p><code>PostgreSQL</code> <code>Schema Reflection</code> <code>SQL Parsing</code> <code>Graphviz</code> <code>React Flow</code> <code>TypeScript</code></p>
     </td>
   </tr>
   <tr>
@@ -62,7 +63,7 @@ I build software with the same standard I want from tools I use myself: clear in
       </a>
       <h3>MarketLens</h3>
       <p>Desktop application for daily energy market intelligence, combining newsletter generation, human approval, and Microsoft Outlook dispatch.</p>
-      <p><code>Tauri v2</code> <code>React</code> <code>TypeScript</code> <code>Rust</code> <code>Tailwind CSS</code> <code>Azure</code></p>
+      <p><code>Tauri v2</code> <code>Rust</code> <code>React</code> <code>TypeScript</code> <code>RSS Fetch</code> <code>Outlook Workflow</code></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://omarabujafar.com/projects/personal-portfolio">
@@ -70,29 +71,10 @@ I build software with the same standard I want from tools I use myself: clear in
       </a>
       <h3>Personal Portfolio</h3>
       <p>A designed and engineered space for my work, writing, projects, command palette, and Omi, an AI assistant for questions about my background.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>OpenAI API</code> <code>Pinecone</code> <code>Framer Motion</code> <code>Vercel</code></p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>OpenAI API</code> <code>Pinecone</code> <code>RAG</code> <code>Framer Motion</code></p>
     </td>
   </tr>
 </table>
-
-## Stack
-
-<p>
-  <code>TypeScript</code>
-  <code>JavaScript</code>
-  <code>Python</code>
-  <code>Java</code>
-  <code>C#</code>
-  <code>C++</code>
-  <code>React</code>
-  <code>Next.js</code>
-  <code>Node.js</code>
-  <code>REST APIs</code>
-  <code>PostgreSQL</code>
-  <code>Docker</code>
-  <code>Git</code>
-  <code>Optimization</code>
-</p>
 
 ## Focus
 
@@ -107,10 +89,10 @@ I am open to internships, freelance projects, and meaningful collaborations.
 
 <p>
   <a href="mailto:omarabujafar@proton.me">omarabujafar@proton.me</a>
-  &nbsp;/&nbsp;
+  &nbsp;•&nbsp;
   <a href="https://github.com/omarabujafar">GitHub</a>
-  &nbsp;/&nbsp;
+  &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/omar-abu-jafar">LinkedIn</a>
-  &nbsp;/&nbsp;
+  &nbsp;•&nbsp;
   <a href="https://www.instagram.com/omarabujafar_">Instagram</a>
 </p>
