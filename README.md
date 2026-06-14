@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/readme/hero-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/readme/hero-dark-v2.svg">
     <img src="assets/readme/hero-light.svg" alt="Omar Abu Jafar - Full-stack developer and software engineer" width="100%">
   </picture>
 </p>
