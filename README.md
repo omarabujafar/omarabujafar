@@ -18,8 +18,6 @@
   <img src="assets/readme/stats/impact-v2.svg" alt="$10.2M monetary impact, 1.2K users impacted, 12+ projects contributed" width="100%">
 </p>
 
-<h2 align="center">SELECTED WORK</h2>
-
 <p align="center">
   <a href="https://omarabujafar.com/projects/bidsense"><img src="assets/readme/project-cards/bidsense-card-v3.webp" alt="BidSense project card" width="49%"></a>
   <a href="https://omarabujafar.com/projects/postsight"><img src="assets/readme/project-cards/postsight-card-v3.webp" alt="PostSight project card" width="49%"></a>
