@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/stats/impact-v1.svg" alt="$10.2M monetary impact, 1.2K users impacted, 12+ projects contributed" width="100%">
+  <img src="assets/readme/stats/impact-v2.svg" alt="$10.2M monetary impact, 1.2K users impacted, 12+ projects contributed" width="100%">
 </p>

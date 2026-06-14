@@ -1,0 +1,14 @@
+<svg width="920" height="86" viewBox="0 0 920 86" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="918" height="84" rx="24" fill="#0D1117" stroke="#58A6FF" stroke-opacity="0.46"/>
+  <path d="M307 18V68" stroke="#58A6FF" stroke-opacity="0.24"/>
+  <path d="M613 18V68" stroke="#58A6FF" stroke-opacity="0.24"/>
+
+  <text x="153" y="39" text-anchor="middle" fill="#E7E7E7" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="1">$10.2M</text>
+  <text x="153" y="59" text-anchor="middle" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="2.2">MONETARY IMPACT</text>
+
+  <text x="460" y="39" text-anchor="middle" fill="#E7E7E7" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="1">1.2K</text>
+  <text x="460" y="59" text-anchor="middle" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="2.2">USERS IMPACTED</text>
+
+  <text x="767" y="39" text-anchor="middle" fill="#E7E7E7" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="1">12+</text>
+  <text x="767" y="59" text-anchor="middle" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="2.2">PROJECTS CONTRIBUTED</text>
+</svg>
