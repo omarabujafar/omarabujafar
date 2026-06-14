@@ -1,0 +1,7 @@
+<svg width="140" height="38" viewBox="0 0 140 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="138" height="36" rx="18" fill="#0D1117" stroke="#58A6FF" stroke-opacity="0.55"/>
+  <path d="M16 16V27" stroke="#58A6FF" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M22 27V20.5C22 17.8 23.7 16 26.1 16C28.7 16 30 17.8 30 20.8V27" stroke="#58A6FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="16" cy="11.5" r="1.8" fill="#58A6FF"/>
+  <text x="43" y="24" fill="#E7E7E7" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">LINKEDIN</text>
+</svg>

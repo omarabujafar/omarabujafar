@@ -1,0 +1,5 @@
+<svg width="146" height="38" viewBox="0 0 146 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="144" height="36" rx="18" fill="#0D1117" stroke="#58A6FF" stroke-opacity="0.55"/>
+  <path d="M14 15C14 12.8 15.8 11 18 11H22L25 14H30C32.2 14 34 15.8 34 18V24C34 26.2 32.2 28 30 28H18C15.8 28 14 26.2 14 24V15Z" stroke="#58A6FF" stroke-width="1.8" stroke-linejoin="round"/>
+  <text x="45" y="24" fill="#E7E7E7" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">PROJECTS</text>
+</svg>
